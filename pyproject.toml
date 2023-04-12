@@ -1,0 +1,6 @@
+[project]
+name = "SimpleClock"
+version = "1.0"
+dependencies = [
+    "time"
+    ]
